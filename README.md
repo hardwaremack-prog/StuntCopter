@@ -4,6 +4,8 @@ A fan recreation of **StuntCopter**, the 1986 Macintosh shareware game by Duane 
 
 All graphics and sounds here are drawn and synthesized in code. No original game files, artwork or code are included. StuntCopter and its original design belong to Duane Blehm and his estate.
 
+## ▶ [Play it in your browser](https://hardwaremack-prog.github.io/StuntCopter/)
+
 ## Screenshots
 
 | | |
