@@ -4,6 +4,15 @@ A fan recreation of **StuntCopter**, the 1986 Macintosh shareware game by Duane 
 
 All graphics and sounds here are drawn and synthesized in code. No original game files, artwork or code are included. StuntCopter and its original design belong to Duane Blehm and his estate.
 
+## Screenshots
+
+| | |
+|---|---|
+| ![Title screen](screenshots/title.png) | ![Dropping the stuntman toward the hay wagon](screenshots/drop.png) |
+| **Title screen** | **Lead the wagon and drop** |
+| ![Killer birds at level 6](screenshots/birds.png) | ![Copter crash and explosion](screenshots/crash.png) |
+| **Killer birds from level 5** | **Get hit and the copter goes down in flames** |
+
 ## How to play
 
 Open `index.html` in Chrome, Edge, Firefox or Safari (desktop or phone).
