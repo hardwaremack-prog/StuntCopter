@@ -6,7 +6,7 @@ All graphics and sounds here are drawn and synthesized in code. No original game
 
 ## Why this one matters to me
 
-StuntCopter was the very first Mac game I ever played, on a 1987 Macintosh SE. It and Missile Command were the two games that got me hooked, and I've now recreated both of them so they can be played again in a web browser.
+StuntCopter was the very first Mac game I ever played, on a 1987 Macintosh SE. It and [Missile Command](https://github.com/hardwaremack-prog/Missile-Command) were the two games that got me hooked, and I've now recreated both of them so they can be played again in a web browser.
 
 ## ▶ [Play it in your browser](https://hardwaremack-prog.github.io/StuntCopter/)
 
